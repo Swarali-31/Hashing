@@ -39,6 +39,11 @@ A simple tool that takes a word or sentence from the user and prints its SHA-256
 
 1. Make sure you are using **Java 8+**
 2. Compile:
-```bash
-javac mini_project/*.java
+    javac login_verifier.java
+    javac simple_hasher.java
+3. Run:
+    java login_verifier
+    java simple_hasher
+
+
 
